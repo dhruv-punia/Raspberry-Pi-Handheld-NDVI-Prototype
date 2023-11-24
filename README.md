@@ -1,1 +1,2 @@
-# Raspberry-Pi-Handheld-NDVI-Prototype
+# Raspberry Pi Handheld NDVI Prototype
+Handheld prototype for detection of environmental stress on vegetation utilizing captured infrared and visible spectrum data to create a "health map" with Normalized Difference Vegetation Index (NDVI), mathematical calculation that can distinguish between healthy and unhealthy plants. The optical data is captured by a NoIr Camera and processed by the onboard Raspberry Pi 3b, then displayed on the Touchscreen LCD housing a simple UI to gather and process data on spot. The entire assembly with onboard power supply is conveniently packed inside a 3D printed case.
