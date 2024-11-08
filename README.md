@@ -1,5 +1,5 @@
 # Raspberry Pi Handheld NDVI Prototype
-
+https://www.youtube.com/watch?v=_k9_LBzBRUM
 ## NDVI ##
 
 Normalized Difference Vegetation Index(NDVI) is a remote sensing method that uses the reflectance of light in the visible and near-infrared (NIR) wavelengths to determine the amount and health of vegetation in an area. NDVI is widely used in agriculture, forestry, and ecology to monitor the growth and health of vegetation and to identify areas of stress or damage. 
